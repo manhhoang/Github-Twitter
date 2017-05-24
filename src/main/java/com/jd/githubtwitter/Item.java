@@ -1,4 +1,4 @@
-package com.wd.exercise;
+package com.jd.githubtwitter;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
